@@ -1,0 +1,162 @@
+{	"Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 2,
+        "inter_splash":"1",
+        "pengaturan_iklan":"2",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+         "startaap":"1234567890"
+        
+      
+       
+
+        }
+    ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Ludo King Off",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "BOKU NO HERO",
+      "gambar": "https://1.bp.blogspot.com/-O24hOHBNlYY/YBVjz_MRXLI/AAAAAAAAAP4/egZhTLMhPSAvA1FFIqoWTVwKuAwTaQ4rACLcBGAsYHQ/s941/boku%2Bno%2Bhero%2B%25284%2529.jpg"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "DEMON SLAYER",
+      "gambar": "https://1.bp.blogspot.com/-ya4ltZ3Cuao/YBVoXl5-dCI/AAAAAAAAAbE/Ihk6FF86NPIB_oq4GePjp_sfzZpGMiAHQCLcBGAsYHQ/s500/demon%2Bslayer%2B%25281%2529.jpg"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "DEATH NOTE",
+      "gambar": "https://1.bp.blogspot.com/-DEzDmyG_Jek/YBVnJyCFX8I/AAAAAAAAAVk/RxGsoeiVj0ohViVXEmCQ79RQXvf_A1BUgCLcBGAsYHQ/s720/death%2Bnote%2B%25281%2529.jpg"
+
+    }
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-KPeaWJRKm18/YBVitZqx1bI/AAAAAAAAABE/rjdKEvK9zrwE8nxgzLx_sbtCx8_4BOIkwCLcBGAsYHQ/s1002/boku%2Bno%2Bhero%2B%25281%2529.jpg"
+    },
+	{
+      "id":2,
+      "id_wall":"00",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-0IskNZ6WCj4/YBVjQoYLtTI/AAAAAAAAAIM/D_QdnboSSQgNs00NQh6anbWut6Iv_ptSACLcBGAsYHQ/s1003/boku%2Bno%2Bhero%2B%25282%2529.jpg"
+    },
+	{
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/--HG4b8SSVrQ/YBVjwnQIVdI/AAAAAAAAAPI/uXq2-5b4CHwDQYCKSyGo2xRJWQ_XcLR3wCLcBGAsYHQ/s1002/boku%2Bno%2Bhero%2B%25283%2529.jpg"
+    },
+	{
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-O-F0ZuPKycg/YBVnUjFlF-I/AAAAAAAAAXg/lxTvuWNquVUxelJGQVHD9m_rX9oN9hdowCLcBGAsYHQ/s600/death%2Bnote%2B%25284%2529.jpg"
+    },
+	{
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-OVKqKPv7GKA/YBVkB8O-qFI/AAAAAAAAASo/4BxqqkDgoFgTOOLjf2V4_7SKd1cNJiOGgCLcBGAsYHQ/s1002/boku%2Bno%2Bhero%2B%25288%2529.jpg"
+    },
+	 {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-Zkcn_iQqjmg/YBVitUpLG3I/AAAAAAAAABI/8VB9NQAGcRQjqskdauW6RUf87MXl5Y8pwCLcBGAsYHQ/s739/boku%2Bno%2Bhero%2B%252810%2529.jpg"
+    },
+	 {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "BOKU NO HERO",
+      "judul":"BOKU NO HERO",
+      "image":"https://1.bp.blogspot.com/-oBJHsDvIQhE/YBViwiiZMKI/AAAAAAAAAB4/3omJ8n-hWp4D0h-94rNTTxvlYTeCjiwOACLcBGAsYHQ/s1158/boku%2Bno%2Bhero%2B%252811%2529.jpg"
+    },
+	
+	
+	 {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "DEMON SLAYER",
+      "judul":"DEMON SLAYER",
+      "image":"https://1.bp.blogspot.com/-ya4ltZ3Cuao/YBVoXl5-dCI/AAAAAAAAAbE/Ihk6FF86NPIB_oq4GePjp_sfzZpGMiAHQCLcBGAsYHQ/s500/demon%2Bslayer%2B%25281%2529.jpg"
+    },
+	{
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "DEMON SLAYER",
+      "judul":"DEMON SLAYER",
+      "image":"https://1.bp.blogspot.com/-qtrG7f0pBYY/YBVoZ4zr-PI/AAAAAAAAAbs/3jnphQGYPNEqFgv9IQ4GKVO2JNXHC22FACLcBGAsYHQ/s889/demon%2Bslayer%2B%25282%2529.jpg"
+    },
+	{
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "DEMON SLAYER",
+      "judul":"DEMON SLAYER",
+      "image":"https://1.bp.blogspot.com/-HHAWZDHezJo/YBVodowjabI/AAAAAAAAAcc/5DG4C2c1VJ4tUqiOqCjJ22bB2u0WVGl_ACLcBGAsYHQ/s700/demon%2Bslayer%2B%25283%2529.jpg"
+    },
+	
+	 {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "DEATH NOTE",
+      "judul":"DEATH NOTE",
+      "image":"https://1.bp.blogspot.com/-DEzDmyG_Jek/YBVnJyCFX8I/AAAAAAAAAVk/RxGsoeiVj0ohViVXEmCQ79RQXvf_A1BUgCLcBGAsYHQ/s720/death%2Bnote%2B%25281%2529.jpg"
+    },
+	 {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "DEATH NOTE",
+      "judul":"DEATH NOTE",
+      "image":"https://1.bp.blogspot.com/-Zv0mYdaORI8/YBVnNL4wN7I/AAAAAAAAAWI/RN5DPgLhyscZV-qVLq3yjQE6q2nmh3idgCLcBGAsYHQ/s1232/death%2Bnote%2B%25282%2529.jpg"
+    },
+	 
+
+  ]
+}
